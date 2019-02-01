@@ -1,0 +1,116 @@
+\begin{thebibliography}{10}
+
+\bibitem{jemal2011global}
+Ahmedin Jemal, Freddie Bray, Melissa~M Center, Jacques Ferlay, Elizabeth Ward,
+  and David Forman.
+\newblock Global cancer statistics.
+\newblock {\em CA: a cancer journal for clinicians}, 61(2):69--90, 2011.
+
+\bibitem{coon2007surveillance}
+J~Thompson Coon, G~Rogers, P~Hewson, D~Wright, R~Anderson, M~Cramp, S~Jackson,
+  S~Ryder, A~Price, and K~Stein.
+\newblock Surveillance of cirrhosis for hepatocellular carcinoma: systematic
+  review and economic analysis.
+\newblock 2007.
+
+\bibitem{gupta2003test}
+Samir Gupta, Stephen Bent, and Jeffrey Kohlwes.
+\newblock Test characteristics of $\alpha$-fetoprotein for detecting
+  hepatocellular carcinoma in patients with hepatitis c: a systematic review
+  and critical analysis.
+\newblock {\em Annals of internal medicine}, 139(1):46--50, 2003.
+
+\bibitem{Tayob2016}
+Nabihah Tayob, Anna~S.F. Lok, Kim~Anh Do, and Ziding Feng.
+\newblock {Improved Detection of Hepatocellular Carcinoma by Using a
+  Longitudinal Alpha-Fetoprotein Screening Algorithm}.
+\newblock {\em Clinical Gastroenterology and Hepatology}, 14(3):469--475.e2,
+  2016.
+
+\bibitem{cox1992regression}
+David~R Cox.
+\newblock Regression models and life-tables.
+\newblock In {\em Breakthroughs in statistics}, pages 527--541. Springer, 1992.
+
+\bibitem{andersen1982cox}
+Per~Kragh Andersen and Richard~David Gill.
+\newblock Cox's regression model for counting processes: a large sample study.
+\newblock {\em The annals of statistics}, pages 1100--1120, 1982.
+
+\bibitem{kalbfleisch2002survival}
+JD~Kalbfleisch and RL~Prentice.
+\newblock The survival analysis of failure time data. 2nd edn. hoboken, 2002.
+
+\bibitem{Rizopoulos2016}
+Dimitris Rizopoulos.
+\newblock {The {\textless}i{\textgreater}R{\textless}/i{\textgreater} Package
+  {\textless}b{\textgreater}JMbayes{\textless}/b{\textgreater} for Fitting
+  Joint Models for Longitudinal and Time-to-Event Data Using MCMC}.
+\newblock {\em Journal of Statistical Software}, 72(7), 2016.
+
+\bibitem{Rizopoulos2010}
+Dimitris Rizopoulos.
+\newblock {JM: An R Package for the Joint Modelling of Longitudinal and
+  Time-to-Event Data}.
+\newblock {\em Journal of Statistical Software}, 35(9):1--33, 2010.
+
+\bibitem{tsiatis2004joint}
+Anastasios~A Tsiatis and Marie Davidian.
+\newblock Joint modeling of longitudinal and time-to-event data: an overview.
+\newblock {\em Statistica Sinica}, pages 809--834, 2004.
+
+\bibitem{sweeting2017using}
+Michael~J Sweeting.
+\newblock Using predictions from a joint model for longitudinal and survival
+  data to inform the optimal time of intervention in an abdominal aortic
+  aneurysm screening programme.
+\newblock {\em Biometrical Journal}, 59(6):1247--1260, 2017.
+
+\bibitem{therneau2015package}
+Terry~M Therneau and Thomas Lumley.
+\newblock Package ‘survival’.
+\newblock {\em R Top Doc}, 128, 2015.
+
+\bibitem{laird1982random}
+Nan~M Laird and James~H Ware.
+\newblock Random-effects models for longitudinal data.
+\newblock {\em Biometrics}, pages 963--974, 1982.
+
+\bibitem{Teofanescu2007}
+Irina Teofănescu, Elena Gologan, Gabriela Stefănescu, and Gh~Bălan.
+\newblock {Surveillance of cirrhosis for hepatocellular carcinoma--clinical
+  validation of new serological biomarkers for improved diagnosis].}
+\newblock {\em Revista medico-chirurgicală̆ a Societă̆ţ̜ii de Medici
+  ş̧i Naturaliş̧ti din Iaş̧i}, 114(1):39--46, 2007.
+
+\bibitem{brown2005flexible}
+Elizabeth~R Brown, Joseph~G Ibrahim, and Victor DeGruttola.
+\newblock A flexible b-spline model for multiple longitudinal biomarkers and
+  survival.
+\newblock {\em Biometrics}, 61(1):64--73, 2005.
+
+\bibitem{rizopoulos2014r}
+Dimitris Rizopoulos.
+\newblock The r package jmbayes for fitting joint models for longitudinal and
+  time-to-event data using mcmc.
+\newblock {\em arXiv preprint arXiv:1404.7625}, 2014.
+
+\bibitem{harville1974bayesian}
+David~A Harville.
+\newblock Bayesian inference for variance components using only error
+  contrasts.
+\newblock {\em Biometrika}, 61(2):383--385, 1974.
+
+\bibitem{hsieh2006joint}
+Fushing Hsieh, Yi-Kuan Tseng, and Jane-Ling Wang.
+\newblock Joint modeling of survival and longitudinal data: likelihood approach
+  revisited.
+\newblock {\em Biometrics}, 62(4):1037--1043, 2006.
+
+\bibitem{harrell1984regression}
+Frank~E Harrell~Jr, Kerry~L Lee, Robert~M Califf, David~B Pryor, and Robert~A
+  Rosati.
+\newblock Regression modelling strategies for improved prognostic prediction.
+\newblock {\em Statistics in medicine}, 3(2):143--152, 1984.
+
+\end{thebibliography}

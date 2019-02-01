@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: unsrt.bst
+Database file #1: library.bib
+Warning--empty journal in coon2007surveillance
+You've used 19 entries,
+            1791 wiz_defined-function locations,
+            569 strings with 7151 characters,
+and the built_in function-call counts, 4704 in all, are:
+= -- 442
+> -- 194
+< -- 4
++ -- 73
+- -- 54
+* -- 324
+:= -- 733
+add.period$ -- 57
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 205
+empty$ -- 440
+format.name$ -- 54
+if$ -- 1043
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 18
+newline$ -- 97
+num.names$ -- 19
+pop$ -- 42
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 114
+stack$ -- 0
+substring$ -- 374
+swap$ -- 56
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 51
+width$ -- 21
+write$ -- 206
+(There was 1 warning)

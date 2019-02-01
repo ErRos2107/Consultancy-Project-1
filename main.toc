@@ -1,0 +1,21 @@
+\contentsline {section}{Executive summary}{1}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Overview}{3}
+\contentsline {subsection}{\numberline {1.2}Data description}{3}
+\contentsline {section}{\numberline {2}Literature Review}{5}
+\contentsline {subsection}{\numberline {2.1}Background}{5}
+\contentsline {subsection}{\numberline {2.2}Multivariate Cox Model}{5}
+\contentsline {subsection}{\numberline {2.3}Joint Modelling framework}{6}
+\contentsline {section}{\numberline {3}Results}{8}
+\contentsline {subsection}{\numberline {3.1}MLE estimates of the Cox model}{8}
+\contentsline {subsubsection}{\numberline {3.1.1}Univariate Cox regression models}{9}
+\contentsline {subsubsection}{\numberline {3.1.2}Multivariate Cox regression model}{9}
+\contentsline {subsection}{\numberline {3.2}MCMC estimates of the joint model}{11}
+\contentsline {subsubsection}{\numberline {3.2.1}The linear mixed-effects model}{11}
+\contentsline {subsubsection}{\numberline {3.2.2}The time-to-event process}{12}
+\contentsline {subsubsection}{\numberline {3.2.3}Dynamic predictions using the joint model}{13}
+\contentsline {section}{\numberline {4}Discussion and limitations}{16}
+\contentsline {subsection}{\numberline {4.1}Discussion}{16}
+\contentsline {subsection}{\numberline {4.2}Limitations}{16}
+\contentsline {section}{\numberline {5}Conclusion}{17}
+\contentsline {section}{Appendices}{20}
