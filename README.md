@@ -1,5 +1,5 @@
 # Liver Cancer: Investigating the risk factors.
-This project is a part of the [Data Science Consultancy Style project](https://www.ed.ac.uk/maths/msc/stats/stats-data-science/study-programme) at the University of Edinburgh.
+This project is a part of the [Data Science Consultancy Style project](https://www.ed.ac.uk/maths/msc/stats/stats-data-science/study-programme) undertaken at the University of Edinburgh.
 
 #### -- Project Status: [Completed]
 
