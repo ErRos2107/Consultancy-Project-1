@@ -46,16 +46,16 @@ The purpose of this project is to investigate the different risk factors associa
     
 3. Data processing/transformation scripts are being kept [here](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Codes).
 
- *The raw data `Screening_cohort.xlsx` and `HCC_in_screening.xlsx` were initially cleaned in Excel and then cleaned using the R codes in`Preparing_data.R`. The data file used in the report are located in `Full_data_final.xlsx`*
+ *The raw data `Screening_cohort.xlsx` and `HCC_in_screening.xlsx` were initially cleaned in Excel and then cleaned using the R codes in`Preparing_data.R`. The data file used in the report are located in `Full_data_final.xlsx`.*
 
-*The set up of the project is straightforward (ie. requires installation of some packages)*  
+*The set up of the project is straightforward (ie. requires installation of some R packages)*  
 
-5. Follow setup [instructions](Link to file)
+6. Install R packages.
 
 ## Featured Notebooks/Analysis/Deliverables/Journal references 
 * [R codes](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Codes)
 * [Project report](https://github.com/ErRos2107/Consultancy-Project-1/blob/master/Report/MSc%20Project%20-%20UoE.pdf)
-* [Project Presentation](link)
+* [Project Presentation](https://github.com/ErRos2107/Consultancy-Project-1/blob/master/Report/UoE_beamer_master_presentation.pdf)
 
 
 ## Contact  
