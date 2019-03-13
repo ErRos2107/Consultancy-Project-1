@@ -28,7 +28,16 @@ The purpose of this project is to investigate the different risk factors associa
 * Latex
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here).
+Our goal in this report will be to: 
++ find a better strategy of the use of serial biomarker for
+early detection of HCC 
++ identify strata of patient that are more vulnerable to HCC development. 
++ Analyse if the gender bias stays the same for patients with different aetiologies. 
+
+Ultimately, the project will aim to:
++ present a valid framework in assessing patient's risk of HCC diagnosis using personalised screening test. 
++ developed a framework that will aim at constantly update the prediction of the patient's survival probabilities. 
 
 ## Needs of this project
 
@@ -40,17 +49,14 @@ The purpose of this project is to investigate the different risk factors associa
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Data) within this repo.
-
-   
-    
+2. Raw Data is being kept [here](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Data) within this repo.    
 3. Data processing/transformation scripts are being kept [here](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Codes).
 
- *The raw data `Screening_cohort.xlsx` and `HCC_in_screening.xlsx` were initially cleaned in Excel and then cleaned using the R codes in`Preparing_data.R`. The data file used in the report are located in `Full_data_final.xlsx`.*
-
-*The set up of the project is straightforward (ie. requires installation of some R packages)*  
+ *The raw data `Screening_cohort.xlsx` and `HCC_in_screening.xlsx` were initially cleaned in Excel and then cleaned using the R codes in`Preparing_data.R`. The data file used in the report are located in `Full_data_final.xlsx`.* 
 
 6. Install R packages.
+
+*The set up of the project is straightforward (ie. requires installation of some R packages)* 
 
 ## Featured Notebooks/Analysis/Deliverables/Journal references 
 * [R codes](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Codes)
