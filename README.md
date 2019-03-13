@@ -4,7 +4,7 @@ This project is a part of the [Data Science Consultancy Style project](https://w
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to investigate the different risk factors associated with liver cancer. Longitudinal measurements of biomarker levels, age, gender, aetiologies and cancer status were obtained from patients undergoing screening from 2009 and 2017 in the South East region of Scotland. 
+The purpose of this project is to investigate the different risk factors associated with liver cancer. 
 
 ### Partner
 * University of Edinburgh
@@ -28,7 +28,10 @@ The purpose of this project is to investigate the different risk factors associa
 * Latex
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here).
+(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here). Liver cancer is the second leading cause of
+cancer-related death worldwide. The most important risk factor for HCC diagnosis is cirrhosis of the liver. Cirrhosis arises as a result of long-lasting damage cause to the liver due to the building up of scar tissue. Several factors have
+been identified of being the main cause behind cirrhosis, including viral hepatitis B and C (HepBand HepC), alcoholic liver disease (ALD), non-alcoholicfatty liver disease (NAFLD). Longitudinal measurements of biomarker levels, age, gender, aetiologies and cancer status were obtained from patients undergoing screening from 2009 and 2017 in the South East region of Scotland. 
+
 Our goal in this report will be to: 
 + find a better strategy of the use of serial biomarker for
 early detection of HCC 
