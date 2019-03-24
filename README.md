@@ -28,11 +28,9 @@ The purpose of this project is to investigate the different risk factors associa
 * Latex
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here). Liver cancer is the second leading cause of
-cancer-related death worldwide. The most important risk factor for HCC diagnosis is cirrhosis of the liver. Cirrhosis arises as a result of long-lasting damage cause to the liver due to the building up of scar tissue. Several factors have
-been identified of being the main cause behind cirrhosis, including viral hepatitis B and C (HepBand HepC), alcoholic liver disease (ALD), non-alcoholicfatty liver disease (NAFLD). Longitudinal measurements of biomarker levels, age, gender, aetiologies and cancer status were obtained from patients undergoing screening from 2009 and 2017 in the South East region of Scotland. 
+Liver cancer is the second leading cause of cancer-related death worldwide. The most important risk factor for HCC diagnosis is cirrhosis of the liver. Cirrhosis arises as a result of long-lasting damage cause to the liver due to the building up of scar tissue. Several factors have been identified of being the main cause behind cirrhosis, including viral hepatitis B and C (HepBand HepC), alcoholic liver disease (ALD), non-alcoholicfatty liver disease (NAFLD). Longitudinal measurements of biomarker levels, age, gender, aetiologies and cancer status were obtained from patients undegoing screening from 2009 and 2017 in the South East region of Scotland. This report focused on analysing longitudinal healtcare data and describe several  statistical methodologies to estimate the survival rate of patient afected by liver cancer. 
 
-Our goal in this report will be to: 
+Our goal in this report was to: 
 + find a better strategy of the use of serial biomarker for
 early detection of HCC 
 + identify strata of patient that are more vulnerable to HCC development. 
