@@ -53,7 +53,7 @@ Ultimately, the project will aim to:
 2. Raw Data is being kept [here](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Data) within this repo.    
 3. Data processing/transformation scripts are being kept [here](https://github.com/ErRos2107/Consultancy-Project-1/tree/master/Codes).
 
- *The raw data `Screening_cohort.xlsx` and `HCC_in_screening.xlsx` were initially cleaned in Excel and then cleaned using the R codes in`Preparing_data.R`. The data file used in the report are located in `Full_data_final.xlsx`.* 
+ *The raw data `Screening_cohort.xlsx` and `HCC_in_screening.xlsx` were initially cleaned in Excel and then cleaned using the R codes in`Preparing_data.R`. The data used in the report are located in the`Full_data_final.xlsx` spreadsheet.* 
 
 6. Install R packages.
 
